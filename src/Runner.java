@@ -15,6 +15,18 @@ public class Runner {
 
         //git log --oneline tüm commitlerimi kisa olarak listeler
 
+        // git show (Hash kod) yapilan bir degisikligi görebiliriz
+        // kim ne zaman nerde degisiklik yapmis görebiliiriz.
+
+        //git restore . veya dosya adi kullanarak working spacedeki degisiklikleri silebiliriz.
+
+        // git restore --staged . veya dosya adiyla staging alanindaki (git add. den sonra)
+        // degisiklikleri siler
+
+        // git reset --hard komutu degisiklikleri working space ve staging areadan komple siler
+        //dikkatli kullanmak lazim geri dönüsü yoktur.
+
+
 
        //versiyon 2
         System.out.println("degisiklik yaptim");
