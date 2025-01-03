@@ -11,6 +11,12 @@ public class Runner {
         //git status komutu ile calismamizin hangi alanda oldugunu kontrol edebiliriz.
 
 
+       //versiyon 2
+        System.out.println("degisiklik yaptim");
+
+
+
+
 
 
     }
