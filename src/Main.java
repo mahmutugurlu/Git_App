@@ -38,8 +38,10 @@ public class Main {
 
         // git remote add origin + repo adresi githubla lokalimizdeki git reposu irtibat kurmasini saglar
 
-        // ilk defa push yapacaksak ilk önce  git push --set-upstream origin master veya  git push -u
+        // ilk defa push yapacaksak ilk önce  git push --set-upstream origin master veya  git push -u origin master
         //komutlariyla push yapmaliyiz
+
+        //git remote -v
 
 
 
