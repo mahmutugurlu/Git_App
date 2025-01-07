@@ -26,7 +26,7 @@ public class Runner {
         // git reset --hard komutu degisiklikleri working space ve staging areadan komple siler
         //dikkatli kullanmak lazim geri dönüsü yoktur.
 
-        //  git commit -am"verilecek mesaj" bu kisa yolla
+        //  git commit -am"verilecek mesaj" bu kisa yolla git add ve git commit -m  komitlerini beraber kullanmis oluruz
 
 
 
@@ -43,7 +43,8 @@ public class Runner {
         System.out.println("degisiklik");
 
 
-
+        //versiyon 6
+        System.out.println("degisiklik");
 
 
 
