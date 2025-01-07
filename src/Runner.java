@@ -48,6 +48,8 @@ public class Runner {
 
         //versiyon 7
 
+        // githubta degisiklik yapmak icin kalem objesine tikladikdan sonra yapabilirsin, bunu githubtan yaptim
+
 
 
     }
